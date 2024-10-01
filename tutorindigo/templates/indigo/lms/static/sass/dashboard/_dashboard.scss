@@ -3,9 +3,6 @@
     padding: 0 !important;
     margin: 0 !important;
     max-width: 100%;
-    @include media-breakpoint-up(lg) {
-        margin-top: 64px !important;
-    }
 }
 .sidebar-notification.add {
     background: #FFFBEB;
